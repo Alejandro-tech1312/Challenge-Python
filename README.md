@@ -20,7 +20,7 @@ Por último se desarrolla la conclusión pra orientar cual es la tienda a vender
 
 ## 🎯 Objetivos del Análisis
 
-- Explorar los datos de ventas de cuatro tiendas distintas en LATAM.
+- Explorar los datos de ventas de cuatro tiendas distintas en LATAM. Se amplió la bas de datos para visualizar todos los productos
 - Comparar comportamiento de productos, categorías y calificaciones entre tiendas.
 - Identificar oportunidades de mejora operativa (costos de envío, stock, desempeño).
 - Visualizar insights clave para facilitar la toma de decisiones.
